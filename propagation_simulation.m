@@ -2,8 +2,8 @@ clear;
 close all;
 %% Time Parameters
 simt = 500;        %simulation time (or 500)
-dt = 1/1000;          %time step (or 1/1000)
-T = 0:dt:simt;      %time series
+dt = 1/1000;       %time step (or 1/1000)
+T = 0:dt:simt;     %time series
 lenT = length(T);
 %% Parameters - Cell Type
 % PYRAMIDAL EXCITATORY NEURON
