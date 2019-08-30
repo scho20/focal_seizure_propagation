@@ -1,1 +1,1 @@
-# focal_seizure_propagation
+# Ictal Wave Propagation
