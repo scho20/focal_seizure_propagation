@@ -14,7 +14,7 @@ Note: Following equations were derived from van Drongelen (2018) and van Rotterd
 
 
 
-Reference: 
+Reference: ^M
 [1] A. van Rotterdam, F.H. Lopes da Silva, J. van den Ende, M.A. Viergever, & A.J. Hermans. (1982). A model of the spatial-temporal characteristics of the alpha rhythm. Bulletin of Mathematical Biology, 44 (2): 283-305.
 [2] W. van Drongelen. (2018). Signal Processing for Neuroscientists, 2nd Edition. Academic Press.
 
