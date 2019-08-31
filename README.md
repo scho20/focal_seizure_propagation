@@ -10,9 +10,10 @@ Note: Following equations were derived from E.M. Izhikevich (2007). For further 
 
 
 #### Equation 2: Synaptic Current of E and I Neurons
-Note: Following equations were derived from van Drongelen (2018) and van Rotterdam (1982).
+Note: Following equations were derived from van Drongelen (2018) and van Rotterdam (1982). <br/>
 
-
+<img src="image/synaptic_eq1.JPG" width="700">
+<img src="image/synaptic_eq2.JPG" width="700">
 
 Reference: <br/>
 [1] A. van Rotterdam, F.H. Lopes da Silva, J. van den Ende, M.A. Viergever, & A.J. Hermans. (1982). A model of the spatial-temporal characteristics of the alpha rhythm. Bulletin of Mathematical Biology, 44 (2): 283-305. <br/>
