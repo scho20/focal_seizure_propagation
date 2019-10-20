@@ -5,7 +5,7 @@ The objective of this project is to simulate a focal seizure propagation that is
 ### Description
 The MATLAB code 'propagation_simulation.m' simulates a ictal wave propagation of a simple feedfoward network, in which an excessive external input leads to the saturation of parvalbumin I neurons (i.e. PDS) and results in propagation of strong excitatory activities across the neural population. Although both E and I neurons can be subjected to saturation, the ictal wave population is characterized by series of PDS following faster exhaustion of inhibition and subsequent hyperexcitation in E neurons.
 
-#### Equation 1: Single Neuron Membrane Potential
+* Equation 1: Single Neuron Membrane Potential
 Note: Following equations are derived from E.M. Izhikevich (2007). For further reference, please find Chapter 5 of "Dynamical Systems in Neuroscience" (MIT Press) by Izhikevich. <br/>
 
 <img src="image/membrane_potential_eq.JPG" width="750">
