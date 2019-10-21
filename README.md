@@ -8,7 +8,7 @@ The MATLAB code 'propagation_simulation.m' simulates a ictal wave propagation of
 #### Equation 1: Single Neuron Membrane Potential
 Note: Following equations are derived from E.M. Izhikevich (2007). For further reference, please find Chapter 5 of "Dynamical Systems in Neuroscience" (MIT Press) by Izhikevich. <br/>
 
-<img src="image/membrane_potential_eq.JPG" width="750">
+<img src="image/membrane_potential_eq_edit.JPG" width="750">
 
 Reference: <br/>
 [1] E.M. Izhikevich. (2007). Dynamical Systems in Neuroscience: The Geometry of Excitability and Bursting. MIT Press.
