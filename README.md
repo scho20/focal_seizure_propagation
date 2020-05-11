@@ -31,4 +31,4 @@ The ideal speed of seizure propagation is 1mm /sec. Since it was presumed that 4
 MATLAB R2018b
 
 ### Acknowledgement
-The following codes were written under the supervision of Professor van Drongelen at the University of Chicago Department of Pediatrics and Neurology and with the advise of Tuan Pham.
+The following codes were written under the supervision of Professor Wim van Drongelen and with the advise of Tuan Pham. This project was conducted at the Epilepsy Lab, The University of Chicago.
