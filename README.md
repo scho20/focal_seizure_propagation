@@ -27,7 +27,7 @@ Reference: <br/>
 [2] W. van Drongelen. (2018). Signal Processing for Neuroscientists, 2nd Edition. Academic Press.
 
 
-#### Videos
+#### Videos: 'ictal_propagation_dynamic' & 'ictal_propagation_ideal'
 Two videos of simulation can be found at '[videos](https://github.com/scho20/forcal_seizure_propagation/blob/master/simulation/videos)'. First video presents the result from the codes on Description #3, and the second video shows the result from the code on Description #1.
 
 #### Requirement
