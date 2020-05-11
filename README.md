@@ -1,6 +1,6 @@
 ## Theoretical Modeling and Simulation of Ictal Wave Propagation
 ### Objective
-The objective of this project is to simulate a focal seizure propagation that is characterized by paroxysmal depolarizing shift (PDS) by computing theoretical network models of pyramidal excitatotry (E) neurons and parvalbumin inhibitory (I) neurons.
+The objective of this project is to simulate a propagating focal seziure wave that is characterized by paroxysmal depolarizing shift (PDS) by modeling a theoretical network model of excitatotry (E) neurons and inhibitory (I) neurons.
 
 ### Description
 The MATLAB code 'propagation_simulation.m' simulates a ictal wave propagation of a simple feedfoward network, in which an excessive external input leads to the saturation of parvalbumin I neurons (i.e. PDS) and results in propagation of strong excitatory activities across the neural population. Although both E and I neurons can be subjected to saturation, the ictal wave population is characterized by series of PDS following faster exhaustion of inhibition and subsequent hyperexcitation in E neurons.
