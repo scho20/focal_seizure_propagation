@@ -28,7 +28,7 @@ Reference: <br/>
 
 
 #### Videos: 'ictal_propagation_dynamic' & 'ictal_propagation_ideal'
-Two videos of simulation can be found at '[videos](https://github.com/scho20/forcal_seizure_propagation/blob/master/simulation/videos)'. First video presents the result from the codes on Description #3, and the second video shows the result from the code on Description #1.
+Two videos of simulation can be found at '[videos](https://github.com/scho20/focal_seizure_propagation/blob/master/simulation/videos)'. First video presents the result from the codes on Description #3, and the second video shows the result from the code on Description #1.
 
 #### Requirement
 MATLAB R2018b
