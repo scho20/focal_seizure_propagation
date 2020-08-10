@@ -31,7 +31,7 @@ Reference: <br/>
 Two videos of simulation can be found at '[videos](https://github.com/scho20/focal_seizure_propagation/blob/master/simulation/videos)'. First video presents the result from the codes on Description #3, and the second video shows the result from the code on Description #1.
 
 #### Requirement
-MATLAB R2018b
++ 'MATLAB R2018b'
 
 ### Acknowledgement
 The following codes were written under the supervision of Professor Wim van Drongelen and with the advise of Tuan Pham. This project was conducted at the Epilepsy Lab, The University of Chicago.
